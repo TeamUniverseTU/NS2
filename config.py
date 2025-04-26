@@ -1,8 +1,8 @@
 import logging
 from logging.handlers import RotatingFileHandler
 
-LOG_FILE_NAME = "TeamUniverse_Fliesbot"
-PORT = '6120'
+LOG_FILE_NAME = "AryanS"
+PORT = '1120'
 OWNER_ID = 2098973647
 MSG_EFFECT = 5046509860389126442
 
