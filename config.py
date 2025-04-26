@@ -2,7 +2,7 @@ import logging
 from logging.handlers import RotatingFileHandler
 
 LOG_FILE_NAME = "AryanS"
-PORT = '1301'
+PORT = '6191'
 OWNER_ID = 2098973647
 MSG_EFFECT = 5046509860389126442
 
