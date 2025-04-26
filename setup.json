@@ -11,7 +11,7 @@
         "db": -1001845718901,
         "auto_del": 0,
         "messages": {
-            "START": "<blockquote expandable>__Lorem ipsum dolor sit amet,\nconsectetur adipiscing elit sed.\nVivamus luctus urna sed urna.\nCurabitur blandit tempus porttitor.\nNullam quis risus eget urna.__</blockquote>",
+            "START": "<blockquote dfedfe",
             "FSUB": "",
             "ABOUT": "ABOUT MSG",
             "REPLY": "reply_text",
