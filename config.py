@@ -2,7 +2,7 @@ import logging
 from logging.handlers import RotatingFileHandler
 
 LOG_FILE_NAME = "TeamUniverse_Fliesbot"
-PORT = '6020'
+PORT = '6120'
 OWNER_ID = 2098973647
 MSG_EFFECT = 5046509860389126442
 
