@@ -1,14 +1,14 @@
 [
     {
-        "session": "TeamUniverse_Fliesbot",
-        "token": "6408135600:AAE7x9yvXuTEBoTK30IEK4xp7r1pGVitsSM",
+        "session": "AryanS",
+        "token": "6952177956:AAGXlcvL2ClrMGerX2zXBrbzTxNh5wQju68",
         "api_id": "22418774",
         "api_hash": "d8c8dab274f9a811814a6a96d044028e",
         "workers": 8,
-        "db_uri": "mongodb+srv://universebot:universebot@universebot.fmvrddt.mongodb.net/?retryWrites=true&w=majority",
-        "db_name": "TeamUniverse_Fliesbot",
+        "db_uri": "mongodb+srv://myflashkatana:AryanS@aryans.qcdi4eb.mongodb.net/?retryWrites=true&w=majority",
+        "db_name": "AryanS",
         "fsubs": [[-1001540354702, true, 5]],
-        "db": -1001905039312,
+        "db": -1001845718901,
         "auto_del": 0,
         "messages": {
             "START": "<blockquote expandable>__Lorem ipsum dolor sit amet,\nconsectetur adipiscing elit sed.\nVivamus luctus urna sed urna.\nCurabitur blandit tempus porttitor.\nNullam quis risus eget urna.__</blockquote>",
