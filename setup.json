@@ -7,7 +7,7 @@
         "workers": 8,
         "db_uri": "mongodb+srv://universebot:universebot@universebot.fmvrddt.mongodb.net/?retryWrites=true&w=majority",
         "db_name": "TeamUniverse_Fliesbot",
-        "fsubs": [[-1002468904401, true, 5]],
+        "fsubs": [[-1001540354702, true, 5]],
         "db": -1001905039312,
         "auto_del": 0,
         "messages": {
