@@ -1,0 +1,25 @@
+[
+    {
+        "session": "yuta",
+        "token": "6843124859:AAG6eOQpIZ6llQM0KCTk8QmVR1aqTY9bzCY",
+        "api_id": "22598912",
+        "api_hash": "a89919a4783f00984e13297583742ed0",
+        "workers": 8,
+        "db_uri": "mongodb+srv://yutafilesharing:HiCWYoPi7tDchpXD@yutafilesharing.thbpetp.mongodb.net/?retryWrites=true&w=majority",
+        "db_name": "filesharexbot",
+        "fsubs": [[-1002468904401, true, 5]],
+        "db": -1002007692321,
+        "auto_del": 0,
+        "messages": {
+            "START": "<blockquote expandable>__Lorem ipsum dolor sit amet,\nconsectetur adipiscing elit sed.\nVivamus luctus urna sed urna.\nCurabitur blandit tempus porttitor.\nNullam quis risus eget urna.__</blockquote>",
+            "FSUB": "",
+            "ABOUT": "ABOUT MSG",
+            "REPLY": "reply_text",
+            "START_PHOTO": "",
+            "FSUB_PHOTO": ""
+        },
+        "admins": [6193451722, 6193451722],
+        "disable_btn": true,
+        "protect": false
+    }
+]
