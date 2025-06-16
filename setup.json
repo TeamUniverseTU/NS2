@@ -1,12 +1,12 @@
 [
     {
-        "session": "NewS5",
-        "token": "7920037860:AAFrMJIaJwReW0SL79VL0UK8wwq9s9zd-kw",
+        "session": "NS5",
+        "token": "5521953154:AAEmdLIYIDarTgPp99rXcea79Y9Wg5qMIcU",
         "api_id": "22418774",
         "api_hash": "d8c8dab274f9a811814a6a96d044028e",
         "workers": 8,
-        "db_uri": "mongodb+srv://NewS5:NewS5@news4.tydtz61.mongodb.net/?retryWrites=true&w=majority&appName=NewS4",
-        "db_name": "NewS5",
+        "db_uri": "mongodb+srv://NS2:NS2@ns2.unifhsi.mongodb.net/?retryWrites=true&w=majority&appName=NS2",
+        "db_name": "NS5",
         "fsubs": [[-1001540354702, true, 5]],
         "db": -1002542207585,
         "auto_del": 0,
